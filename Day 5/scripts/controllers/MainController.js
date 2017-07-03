@@ -1,3 +1,6 @@
+/**
+ * Created by Alexandru.Vlad on 7/3/2017.
+ */
 hrApp.controller('MainController', ['$scope', function ($scope) {
 
     $scope.title = 'HR Application';

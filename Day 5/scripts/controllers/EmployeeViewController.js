@@ -2,7 +2,7 @@ hrApp.controller('EmployeeViewController', ['$scope', '$http', '$routeParams', '
     function ($scope, $http, $routeParams, $location, EmployeeService) {
 
         /*
-        $scope.employee = {
+         $scope.employee = {
          "id": 100,
          "firstName": "Steven",
          "lastName": "King",
